@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    margin-top: auto;
+    text-align: center;
+}
